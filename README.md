@@ -11,7 +11,7 @@
 
 ## Sobre o Projeto
 
-O Projeto Todo foi um gerador de senha, o usuário pode escolher o tamanha da senha que ele quer gerar de 5 até 25, podendo ser copiada com um click. Desenvolvido para praticar o aprendizado adquirido em javascript.
+O Projeto Todo foi um gerador de senha, o usuário pode escolher o tamanho da senha que ele quer gerar de 5 até 25, podendo ser copiada com um click. Desenvolvido para praticar o aprendizado adquirido em javascript.
 
 ### Link do projeto: https://geradorde-senhas.netlify.app/
 
