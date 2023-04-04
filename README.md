@@ -2,11 +2,18 @@
 
 <h1 style="text-align: center; font-weight: bold;">Gerador de Senha</h1>
 
+## Demo 📸
+
+<div align="center" >
+   <img src="./assets/geradordesenhas.gif" alt="demo-mobile" height="425">
+</div>
+ ---
+
 ## Sobre o Projeto
 
 O Projeto Todo foi um gerador de senha, o usuário pode escolher o tamanha da senha que ele quer gerar de 5 até 25, podendo ser copiada com um click. Desenvolvido para praticar o aprendizado adquirido em javascript.
 
-### Link do projeto:
+### Link do projeto: https://geradorde-senhas.netlify.app/
 
 ### 🛠 Tecnologias
 
@@ -23,7 +30,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 <a href="https://raw.githubusercontent.com/ARTHURPC03/Proffy-FullStack/master/github/linkedin.png">
-<img src="https://raw.githubusercontent.com/ARTHURPC03/Proffy-FullStack/master/github/linkedin.png" alt="linkedin" height="50"></a>
+<img src="https://raw.githubusercontent.com/ARTHURPC03/Proffy-FullStack/master/github/linkedin.png" alt="LinkedIn" height="50"></a>
 <br />
 
 #### Made with love by: Denise Schirmer
